@@ -1,0 +1,3 @@
+module minDepth
+
+go 1.24.1
